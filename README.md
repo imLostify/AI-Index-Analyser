@@ -109,8 +109,6 @@ bash
 streamlit run main.py 
 
 # Linux/Mac
-python3 main.py
-# or
 streamlit run main.py
 ```
 
