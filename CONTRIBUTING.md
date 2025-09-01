@@ -52,7 +52,7 @@ We are committed to providing a welcoming and inspiring community for all. Pleas
 ### 💡 How to Contribute
 
 #### Reporting Bugs
-- Check if the bug has already been reported in [Issues](https://github.com/project/issues)
+- Check if the bug has already been reported in [Issues](https://github.com/imLostify/AI-Index-Analyser/issues)
 - Create a detailed bug report with:
   - Clear description of the problem
   - Steps to reproduce
@@ -250,9 +250,8 @@ Contributors will be:
 
 ### 📞 Getting Help
 
-- Join our [Discord server](https://discord.gg/example)
-- Ask questions in [Discussions](https://github.com/project/discussions)
-- Contact maintainers: maintainers@example.com
+
+- Contact maintainers: arik9@web.de
 
 ---
 
@@ -304,7 +303,7 @@ Wir verpflichten uns, eine einladende und inspirierende Gemeinschaft für alle z
 ### 💡 Wie man beiträgt
 
 #### Fehler melden
-- Prüfen Sie, ob der Fehler bereits in [Issues](https://github.com/project/issues) gemeldet wurde
+- Prüfen Sie, ob der Fehler bereits in [Issues](https://github.com/imLostify/AI-Index-Analyser/issues) gemeldet wurde
 - Erstellen Sie einen detaillierten Fehlerbericht mit:
   - Klarer Problembeschreibung
   - Schritten zur Reproduktion
@@ -408,9 +407,7 @@ python -m pytest --cov=.
 
 ### 📞 Hilfe erhalten
 
-- Treten Sie unserem [Discord-Server](https://discord.gg/example) bei
-- Stellen Sie Fragen in [Discussions](https://github.com/project/discussions)
-- Kontaktieren Sie die Maintainer: maintainers@example.com
+- Kontaktieren Sie die Maintainer: arik9@web.de
 
 ---
 
