@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-green)
 ![License](https://img.shields.io/badge/license-Proprietary-red)
-![Status](https://img.shields.io/badge/status-V.1.0-yellow)
+![Status](https://img.shields.io/badge/status-Beta-yellow)
 
 A professional-grade financial analysis tool that combines advanced technical analysis with AI-powered insights for comprehensive market analysis.
 
