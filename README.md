@@ -262,5 +262,5 @@ For support, please refer to the official GitHub repository or contact the devel
 **Disclaimer**: This tool is for informational purposes only and does not constitute investment advice. Always do your own research and consult with qualified financial advisors before making investment decisions.
 
 **Version**: 1.0.0  
-**Last Updated**: December 2024  
+**Last Updated**: September 2025  
 **Status**: Beta Testing
