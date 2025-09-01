@@ -85,7 +85,7 @@ For AI features, set up a local LLM server:
 
 1. **Using LM Studio** (Recommended):
    - Download from: https://lmstudio.ai/
-   - Load a model (e.g., Mistral, Llama, etc.)
+   - Load a model (code works currently with qwen/qwen3-30b-a3b-2507)
    - Start the server on port 1234
 
 2. **Using Ollama**:
@@ -105,9 +105,8 @@ For AI features, set up a local LLM server:
 ### Starting the Application
 ```bash
 # Windows
-python main.py
-# or
-streamlit run main.py
+bash
+streamlit run main.py 
 
 # Linux/Mac
 python3 main.py
