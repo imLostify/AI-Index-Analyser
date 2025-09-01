@@ -1,0 +1,18 @@
+# Core dependencies - Latest versions
+streamlit>=1.32.0
+yfinance>=0.2.40
+plotly>=5.20.0
+
+# Data processing
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Technical analysis
+ta>=0.11.0
+
+# AI/LLM support
+openai>=1.0.0
+httpx>=0.27.0
+
+# Additional utilities
+python-dotenv>=1.0.0

@@ -1,0 +1,17 @@
+{
+  "language": "de",
+  "index": 1,
+  "ticker": "^NDX",
+  "use_custom": true,
+  "start_date": "2025-08-25",
+  "end_date": "2025-09-01",
+  "interval": "5m",
+  "use_llm": true,
+  "llm_temp": 0.3,
+  "max_tokens": 25000,
+  "show_vwap": true,
+  "tokens_indicators": 2500,
+  "tokens_probabilities": 2500,
+  "tokens_fibonacci": 4000,
+  "tokens_questions": 2000
+}
