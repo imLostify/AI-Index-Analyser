@@ -61,7 +61,7 @@ A professional-grade financial analysis tool that combines advanced technical an
 ### Step 1: Clone the Repository
 ```bash
 git clone [repository-url]
-cd yfinance+llm-index-analyser
+cd (your project file)
 ```
 
 ### Step 2: Create Virtual Environment
