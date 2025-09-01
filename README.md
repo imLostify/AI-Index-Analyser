@@ -257,7 +257,7 @@ This software is proprietary and licensed for non-commercial testing purposes on
 
 ## 📞 Support
 
-For support, please refer to the official GitHub repository or contact the development team.
+For support, please refer to the official GitHub repository or contact the developer: Arik Wittlich arik9@web.de.
 
 ---
 
