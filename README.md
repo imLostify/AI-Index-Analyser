@@ -239,7 +239,7 @@ DEBUG_MODE = True
 
 ## 🤝 Contributing
 
-This project is currently in beta. For bug reports or feature requests, please contact the development team through the official GitHub repository.
+This project is currently in beta. For bug reports or feature requests, please contact the developer through the official GitHub repository.
 
 ## 📄 License
 
